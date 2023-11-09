@@ -9,7 +9,7 @@ single line.
 Write a program which can compute the factorial of a given numbers.The results should be printed in a comma-separated sequence on a single line.Suppose the following input is supplied to the program: 8 Then, the output should be:40320
 
 # Question 3 :
-With a given integral number n, write a program to generate a dictionary that contains (i, i x i) such that is an integral number between 1 and n (both included). and then the program should print the dictionary.Suppose the following input is supplied to the program: 8
+With a given integral number n, write a program to generate a dictionary that contains (i, i x i) such that is an integral number between 1 and n (both included). and then the program should print the dictionary.
 
 # Question 4
 Write a program which accepts a sequence of comma-separated numbers from console and generate a list and a tuple which contains every number.Suppose the following input is supplied to the program
@@ -43,4 +43,15 @@ Write a program that accepts a comma separated sequence of words as input and pr
 # Question 9
 Write a program that accepts sequence of lines as input and prints the lines after making all characters in the sentence capitalized.
 
-Suppose the following input is supplied to the program
+# Question 10
+Write a program that accepts a sequence of whitespace separated words as input and prints the words after removing all duplicate words and sorting them alphanumerically.
+
+# Question 11
+Write a program which accepts a sequence of comma separated 4 digit binary numbers as its input and then check whether they are divisible by 5 or not. The numbers that are divisible by 5 are to be printed in a comma separated sequence.
+
+# Question 12
+Write a program, which will find all such numbers between 1000 and 3000 (both included) such that each digit of the number is an even number.The numbers obtained should be printed in a comma-separated sequence on a single line.
+
+# Question 13
+Write a program that accepts a sentence and calculate the number of letters and digits.
+
