@@ -55,3 +55,9 @@ Write a program, which will find all such numbers between 1000 and 3000 (both in
 # Question 13
 Write a program that accepts a sentence and calculate the number of letters and digits.
 
+# Question 14
+Write a program that accepts a sentence and calculate the number of upper case letters and lower case letters.
+
+# Question 15
+Write a program that computes the value of a+aa+aaa+aaaa with a given digit as the value of a.
+
