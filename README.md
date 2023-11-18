@@ -61,3 +61,9 @@ Write a program that accepts a sentence and calculate the number of upper case l
 # Question 15
 Write a program that computes the value of a+aa+aaa+aaaa with a given digit as the value of a.
 
+# Question 16
+Use a list comprehension to square each odd number in a list. The list is input by a sequence of comma-separated numbers.
+
+# Question 17
+Write a program that computes the net amount of a bank account based a transaction log from console input.
+
