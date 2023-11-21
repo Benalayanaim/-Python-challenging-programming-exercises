@@ -88,3 +88,8 @@ You are required to write a program to sort the (name, age, score) tuples by asc
 3: Then sort by score
 The priority is that name > age > score.
 
+# Question 20
+Define a class with a generator which can iterate the numbers, which are divisible by 7, between a given range 0 and n.
+
+# Question 21
+A robot moves in a plane starting from the original point (0,0). The robot can move toward UP, DOWN, LEFT and RIGHT with a given steps.
