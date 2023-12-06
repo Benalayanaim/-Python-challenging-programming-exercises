@@ -93,3 +93,22 @@ Define a class with a generator which can iterate the numbers, which are divisib
 
 # Question 21
 A robot moves in a plane starting from the original point (0,0). The robot can move toward UP, DOWN, LEFT and RIGHT with a given steps.
+
+# Question 22
+Write a program to compute the frequency of the words from the input. The output should output after sorting the key alphanumerically.
+
+# Question 23
+Write a method which can calculate square value of number
+
+# Question 24
+Python has many built-in functions, and if you do not know how to use it, you can read document online or find some books. But Python has a built-in document function for every built-in functions.
+
+Please write a program to print some Python built-in functions documents, such as abs(), int(), raw_input()
+
+And add document for your own function
+
+# Question 25
+Define a class, which have a class parameter and have a same instance parameter.
+
+
+
