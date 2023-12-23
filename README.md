@@ -166,3 +166,11 @@ Write a program which can map() and filter() to make a list whose elements are s
 # Question 43
 Write a program which can filter() to make a list whose elements are even number between 1 and 20 (both included).
 
+# Question 44
+Write a program which can map() to make a list whose elements are square of numbers between 1 and 20 (both included).
+
+# Question 45
+Define a class named American which has a static method called printNationality.
+
+# Question 46
+Define a class named American and its subclass NewYorker.
