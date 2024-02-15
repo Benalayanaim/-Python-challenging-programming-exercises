@@ -169,8 +169,22 @@ Write a program which can filter() to make a list whose elements are even number
 # Question 44
 Write a program which can map() to make a list whose elements are square of numbers between 1 and 20 (both included).
 
+
 # Question 45
 Define a class named American which has a static method called printNationality.
 
 # Question 46
 Define a class named American and its subclass NewYorker.
+
+
+# Question 47
+Define a class named Circle which can be constructed by a radius. The Circle class has a method which can compute the area.
+
+# Question 48
+Define a class named Rectangle which can be constructed by a length and width. The Rectangle class has a method which can compute the area.
+
+# Question 49
+Define a class named Shape and its subclass Square. The Square class has an init function which takes a length as argument. Both classes have a area function which can print the area of the shape where Shape's area is 0 by default.
+
+# Question 50
+Please raise a RuntimeError exception.(Use raise() to raise an exception.)
