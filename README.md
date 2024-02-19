@@ -188,3 +188,13 @@ Define a class named Shape and its subclass Square. The Square class has an init
 
 # Question 50
 Please raise a RuntimeError exception.(Use raise() to raise an exception.)
+
+# Question 51
+Write a function to compute 5/0 and use try/except to catch the exceptions.
+
+# Question 52
+Define a custom exception class which takes a string message as attribute.
+
+
+# Question 53
+Assuming that we have some email addresses in the "username@companyname.com" format, please write program to print the user name of a given email address. Both user names and company names are composed of letters only.
