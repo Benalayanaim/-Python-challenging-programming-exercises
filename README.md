@@ -198,3 +198,18 @@ Define a custom exception class which takes a string message as attribute.
 
 # Question 53
 Assuming that we have some email addresses in the "username@companyname.com" format, please write program to print the user name of a given email address. Both user names and company names are composed of letters only.
+
+
+# Question 54
+Assuming that we have some email addresses in the "username@companyname.com" format, please write program to print the company name of a given email address. Both user names and company names are composed of letters only.
+
+
+# Question 55
+Write a program which accepts a sequence of words separated by whitespace as input to print the words composed of digits only.
+
+
+# Question 57
+Write a program to read an ASCII string and to convert it to a unicode string encoded by utf-8.
+
+# Question 59
+Write a program to compute 1/2+2/3+3/4+...+n/n+1 with a given n input by console (n>0).
