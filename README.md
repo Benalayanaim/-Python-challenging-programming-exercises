@@ -213,3 +213,31 @@ Write a program to read an ASCII string and to convert it to a unicode string en
 
 # Question 59
 Write a program to compute 1/2+2/3+3/4+...+n/n+1 with a given n input by console (n>0).
+
+# question 60
+Write a program to compute:
+
+f(n)=f(n-1)+100 when n>0
+and f(0)=0
+with a given n input by console (n>0).
+
+# question 61
+The Fibonacci Sequence is computed based on the following formula:
+
+f(n)=0 if n=0
+f(n)=1 if n=1
+f(n)=f(n-1)+f(n-2) if n>1
+
+# question 62
+The Fibonacci Sequence is computed based on the following formula:
+
+f(n)=0 if n=0
+f(n)=1 if n=1
+f(n)=f(n-1)+f(n-2) if n>1
+Please write a program to compute the value of f(n) with a given n input by console.
+
+# question 63
+Please write a program using generator to print the even numbers between 0 and n in comma separated form while n is input by console.
+
+# question 64
+Please write a program using generator to print the numbers which can be divisible by 5 and 7 between 0 and n in comma separated form while n is input by console.
