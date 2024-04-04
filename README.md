@@ -241,3 +241,13 @@ Please write a program using generator to print the even numbers between 0 and n
 
 # question 64
 Please write a program using generator to print the numbers which can be divisible by 5 and 7 between 0 and n in comma separated form while n is input by console.
+
+# question 65
+You are given an integer array height of length n. There are n vertical lines drawn such that the two endpoints of the ith line are (i, 0) and (i, height[i]).
+
+Find two lines that together with the x-axis form a container, such that the container contains the most water.
+
+Return the maximum amount of water a container can store.
+
+# question 64
+Given an integer array nums, rotate the array to the right by k steps, where k is non-negative.
