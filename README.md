@@ -249,5 +249,19 @@ Find two lines that together with the x-axis form a container, such that the con
 
 Return the maximum amount of water a container can store.
 
-# question 64
+# question 66
 Given an integer array nums, rotate the array to the right by k steps, where k is non-negative.
+
+# question 67
+Isomorphic Strings :Given two strings s and t, determine if they are isomorphic.
+
+Two strings s and t are isomorphic if the characters in s can be replaced to get t.
+
+All occurrences of a character must be replaced with another character while preserving the order of characters. No two characters may map to the same character, but a character may map to itself.
+
+# question 68
+Two-Sum :Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
+
+You may assume that each input would have exactly one solution, and you may not use the same element twice.
+
+You can return the answer in any order.
